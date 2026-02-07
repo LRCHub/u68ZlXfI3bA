@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ちはる - From THE FIRST TAKE",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-07T06:08:16.502819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ちはる - From THE FIRST TAKE",
+      "artist": "キタニタツヤ feat. n-buna from ヨルシカ",
+      "has_synced": true,
+      "path": "select/01_ちはる_-_From_THE_FIRST_TAKE_キタニタツヤ_feat._n-buna_from_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ちはる",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_ちはる_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ちはる - From THE FIRST TAKE",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_ちはる_-_From_THE_FIRST_TAKE_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ちはる - From THE FIRST TAKE (feat. n-buna from ヨルシカ)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/04_ちはる_-_From_THE_FIRST_TAKE_(feat._n-buna_from_ヨルシカ)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ちはる",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/05_ちはる_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ちはる - From THE FIRST TAKE",
+      "artist": "キタニタツヤ Feat․ N-Buna From ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_ちはる_-_From_THE_FIRST_TAKE_キタニタツヤ_Feat._N-Buna_From_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ちはる - Chiharu",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/07_ちはる_-_Chiharu_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちはる",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ちはる_キタニタツヤ.txt"
+    }
+  ]
+}
